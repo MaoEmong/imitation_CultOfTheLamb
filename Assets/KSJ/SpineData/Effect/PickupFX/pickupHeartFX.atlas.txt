@@ -1,0 +1,76 @@
+
+pickupHeartFX.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Heart
+  rotate: true
+  xy: 360, 461
+  size: 176, 148
+  orig: 176, 148
+  offset: 0, 0
+  index: -1
+images/HeartBurst
+  rotate: false
+  xy: 2, 2
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+images/HeartParticle_Black_1
+  rotate: false
+  xy: 2, 403
+  size: 174, 152
+  orig: 174, 152
+  offset: 0, 0
+  index: -1
+images/HeartParticle_Black_2
+  rotate: false
+  xy: 178, 403
+  size: 174, 152
+  orig: 174, 152
+  offset: 0, 0
+  index: -1
+images/HeartParticle_Blue_1
+  rotate: true
+  xy: 354, 285
+  size: 174, 152
+  orig: 174, 152
+  offset: 0, 0
+  index: -1
+images/HeartParticle_Blue_2
+  rotate: false
+  xy: 2, 249
+  size: 174, 152
+  orig: 174, 152
+  offset: 0, 0
+  index: -1
+images/HeartParticle_Red_1
+  rotate: false
+  xy: 178, 249
+  size: 174, 152
+  orig: 174, 152
+  offset: 0, 0
+  index: -1
+images/HeartParticle_Red_2
+  rotate: true
+  xy: 354, 109
+  size: 174, 152
+  orig: 174, 152
+  offset: 0, 0
+  index: -1
+images/Strength_Particle_1
+  rotate: true
+  xy: 2, 557
+  size: 80, 177
+  orig: 80, 178
+  offset: 0, 1
+  index: -1
+images/Strength_Particle_2
+  rotate: true
+  xy: 181, 557
+  size: 80, 177
+  orig: 80, 178
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,90 @@
+
+CandleFire.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/CandleFire/CandleFire_0/CandleFire_0_0001
+  rotate: true
+  xy: 464, 6
+  size: 91, 132
+  orig: 104, 164
+  offset: 1, 8
+  index: -1
+images/CandleFire/CandleFire_0/CandleFire_0_0002
+  rotate: true
+  xy: 166, 3
+  size: 94, 156
+  orig: 104, 164
+  offset: 5, 4
+  index: -1
+images/CandleFire/CandleFire_0/CandleFire_0_0003
+  rotate: true
+  xy: 2, 2
+  size: 95, 162
+  orig: 104, 164
+  offset: 9, 2
+  index: -1
+images/CandleFire/CandleFire_0/CandleFire_0_0004
+  rotate: true
+  xy: 1080, 30
+  size: 67, 106
+  orig: 104, 164
+  offset: 5, 2
+  index: -1
+images/CandleFire/CandleFire_0/CandleFire_0_0005
+  rotate: true
+  xy: 1188, 23
+  size: 74, 101
+  orig: 104, 164
+  offset: 9, 0
+  index: -1
+images/CandleFire/CandleFire_0/CandleFire_0_0006
+  rotate: true
+  xy: 1291, 11
+  size: 86, 98
+  orig: 104, 164
+  offset: 0, 0
+  index: -1
+images/CandleFire/CandleFire_1/CandleFire_1_0001
+  rotate: true
+  xy: 1391, 21
+  size: 76, 98
+  orig: 88, 140
+  offset: 9, 10
+  index: -1
+images/CandleFire/CandleFire_1/CandleFire_1_0002
+  rotate: true
+  xy: 850, 21
+  size: 76, 119
+  orig: 88, 140
+  offset: 4, 15
+  index: -1
+images/CandleFire/CandleFire_1/CandleFire_1_0003
+  rotate: true
+  xy: 324, 10
+  size: 87, 138
+  orig: 88, 140
+  offset: 0, 2
+  index: -1
+images/CandleFire/CandleFire_1/CandleFire_1_0004
+  rotate: true
+  xy: 971, 27
+  size: 70, 107
+  orig: 88, 140
+  offset: 5, 0
+  index: -1
+images/CandleFire/CandleFire_1/CandleFire_1_0005
+  rotate: true
+  xy: 726, 19
+  size: 78, 122
+  orig: 88, 140
+  offset: 6, 0
+  index: -1
+images/CandleFire/CandleFire_1/CandleFire_1_0006
+  rotate: true
+  xy: 598, 16
+  size: 81, 126
+  orig: 88, 140
+  offset: 7, 0
+  index: -1

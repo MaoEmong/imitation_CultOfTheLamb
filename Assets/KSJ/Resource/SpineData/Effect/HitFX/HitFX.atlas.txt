@@ -1,0 +1,111 @@
+
+HitFX.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Burst 1/Spark/Spark_0001
+  rotate: false
+  xy: 955, 410
+  size: 16, 98
+  orig: 22, 101
+  offset: 2, 1
+  index: -1
+images/Burst 1/Spark/Spark_0002
+  rotate: false
+  xy: 160, 47
+  size: 18, 88
+  orig: 22, 101
+  offset: 1, 13
+  index: -1
+images/Burst 1/Spark/Spark_0003
+  rotate: false
+  xy: 913, 320
+  size: 21, 72
+  orig: 22, 101
+  offset: 0, 28
+  index: -1
+images/Burst 1/Spark/Spark_0004
+  rotate: false
+  xy: 973, 448
+  size: 22, 60
+  orig: 22, 101
+  offset: 0, 38
+  index: -1
+images/Burst 1/Spark/Spark_0005
+  rotate: false
+  xy: 180, 79
+  size: 22, 56
+  orig: 22, 101
+  offset: 0, 42
+  index: -1
+images/Burst 1/Spark/Spark_0006
+  rotate: true
+  xy: 2, 2
+  size: 18, 38
+  orig: 22, 101
+  offset: 3, 54
+  index: -1
+images/Burst 1/Spark/Spark_0007
+  rotate: true
+  xy: 843, 246
+  size: 12, 24
+  orig: 22, 101
+  offset: 6, 60
+  index: -1
+images/Burst 1/Spark/Spark_0008
+  rotate: false
+  xy: 955, 399
+  size: 8, 9
+  orig: 22, 101
+  offset: 9, 68
+  index: -1
+images/Burst 1/Spike_Strip
+  rotate: false
+  xy: 2, 394
+  size: 951, 114
+  orig: 951, 114
+  offset: 0, 0
+  index: -1
+images/Burst 1/Star 2/Star2_0002
+  rotate: false
+  xy: 523, 78
+  size: 173, 165
+  orig: 259, 277
+  offset: 42, 44
+  index: -1
+images/Burst 1/Star 2/Star2_0003
+  rotate: false
+  xy: 698, 71
+  size: 166, 172
+  orig: 259, 277
+  offset: 60, 41
+  index: -1
+images/Burst 1/Star/Burst1_Star_0001
+  rotate: true
+  xy: 843, 260
+  size: 132, 68
+  orig: 525, 261
+  offset: 204, 100
+  index: -1
+images/Burst 1/Star/Burst1_Star_0002
+  rotate: true
+  xy: 2, 22
+  size: 113, 156
+  orig: 525, 261
+  offset: 210, 64
+  index: -1
+images/Burst 1/Star/Burst1_Star_0003
+  rotate: false
+  xy: 2, 137
+  size: 519, 255
+  orig: 525, 261
+  offset: 3, 3
+  index: -1
+images/Burst 1/Star/Burst1_Star_0004
+  rotate: false
+  xy: 523, 245
+  size: 318, 147
+  orig: 525, 261
+  offset: 85, 41
+  index: -1

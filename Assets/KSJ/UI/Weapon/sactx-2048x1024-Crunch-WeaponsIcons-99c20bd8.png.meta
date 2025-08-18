@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: 4b58b1abdbe5b444e830c928096a961d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: weapon_axe
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 168
+        width: 155
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071e8523056333242a4caec6df9d7faf
+      internalID: -374359513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_dagger
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 170
+        width: 150
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18d4e1a5662b604095666f1c0c6b4aa
+      internalID: 1026926509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sword
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 168
+        width: 150
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877abfef6a4bb6d4ca87913c06d3a126
+      internalID: 577430498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 98e2dff66ed5af2429daee79f310648b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_9: -732264751
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_51: -1079949137
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_5: 314693690
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_7: 909136138
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_32: 752751099
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_35: 897254465
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_63: -710436370
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_8: -928817422
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_12: 179817237
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_52: -2003005766
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_30: -1069150299
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_67: 766499243
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_2: -1044797924
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_41: 1808240511
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_61: -1181773850
+      weapon_dagger: 1026926509
+      weapon_sword: 577430498
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_1: 1956296331
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_37: -116219146
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_18: -968068117
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_11: -1141458356
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_17: 1957549326
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_24: -713256856
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_33: 400961765
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_43: -2014505695
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_42: -1658858693
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_28: 226323722
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_25: 539025409
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_68: 2104714642
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_38: -1808256287
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_62: 1276589907
+      weapon_axe: -374359513
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_75: -123701656
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_49: -1899339956
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_45: 1915764023
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_36: 847818270
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_29: 1807441563
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_22: 563841265
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_64: 1381726273
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_6: 1541828460
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_65: 78692582
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_15: 141269323
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_47: -810523198
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_27: 286983385
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_4: -1215357016
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_72: -927346959
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_60: 2725593
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_50: -655226778
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_31: 216328555
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_74: -165336823
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_23: 1017094477
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_46: 871101195
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_40: -157203475
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_13: -691519535
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_3: 424816217
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_19: -560762570
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_76: -519772790
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_56: 367005327
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_66: -1629501641
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_73: 596010171
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_71: -589602817
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_10: -1492368497
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_39: 662685182
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_48: -1360173800
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_21: -1191038610
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_26: 445880964
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_70: 1361107790
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_69: -1693681913
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_53: 440212394
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_14: -981988167
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_20: -1231767772
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_0: -1557510376
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_44: 1284561198
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_58: -370793104
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_34: -1185507521
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_54: -997858003
+      sactx-2048x1024-Crunch-WeaponsIcons-99c20bd8_16: 227770290
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

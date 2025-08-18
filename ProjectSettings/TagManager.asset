@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LeftWall
+  - RightWall
+  - UpWall
+  - DownWall
+  - Grass
+  - Stone
+  - Stump
+  - Tent
+  - WoodenRedStick
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - test
+  - BreakableObject
+  - Enemy
+  - 
+  - Weapon
+  - 
+  - 
+  - 
+  - 
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - AttackRange
+  - EnemyAtkRange
+  - 
+  - 
+  - 
+  - EnvironmentObject
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Post
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Eff
+    uniqueID: 474346477
+    locked: 0
