@@ -1,0 +1,930 @@
+
+BloodImpact.png
+size: 4096,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0/Blood_0_0001
+  rotate: false
+  xy: 3274, 4
+  size: 56, 47
+  orig: 68, 120
+  offset: 7, 0
+  index: -1
+images/0/Blood_0_0002
+  rotate: false
+  xy: 1553, 7
+  size: 45, 96
+  orig: 68, 120
+  offset: 11, 5
+  index: -1
+images/0/Blood_0_0003
+  rotate: false
+  xy: 3271, 53
+  size: 48, 88
+  orig: 68, 120
+  offset: 9, 16
+  index: -1
+images/0/Blood_0_0004
+  rotate: true
+  xy: 167, 2
+  size: 51, 84
+  orig: 68, 120
+  offset: 8, 24
+  index: -1
+images/0/Blood_0_0005
+  rotate: false
+  xy: 406, 2
+  size: 53, 73
+  orig: 68, 120
+  offset: 7, 36
+  index: -1
+images/0/Blood_0_0006
+  rotate: false
+  xy: 3441, 129
+  size: 57, 58
+  orig: 68, 120
+  offset: 5, 52
+  index: -1
+images/0/Blood_0_0007
+  rotate: true
+  xy: 253, 2
+  size: 62, 57
+  orig: 68, 120
+  offset: 3, 55
+  index: -1
+images/0/Blood_0_0008
+  rotate: true
+  xy: 3369, 76
+  size: 65, 52
+  orig: 68, 120
+  offset: 1, 61
+  index: -1
+images/0/Blood_0_0009
+  rotate: true
+  xy: 3321, 73
+  size: 68, 46
+  orig: 68, 120
+  offset: 0, 69
+  index: -1
+images/0/Blood_0_0010
+  rotate: true
+  xy: 3378, 186
+  size: 68, 39
+  orig: 68, 120
+  offset: 0, 77
+  index: -1
+images/0/Blood_0_0011
+  rotate: true
+  xy: 3419, 189
+  size: 65, 31
+  orig: 68, 120
+  offset: 1, 86
+  index: -1
+images/0/Blood_0_0012
+  rotate: false
+  xy: 103, 28
+  size: 62, 25
+  orig: 68, 120
+  offset: 3, 92
+  index: -1
+images/0/Blood_0_0013
+  rotate: true
+  xy: 3488, 198
+  size: 56, 21
+  orig: 68, 120
+  offset: 7, 97
+  index: -1
+images/0/Blood_0_0014
+  rotate: true
+  xy: 3540, 2
+  size: 52, 16
+  orig: 68, 120
+  offset: 9, 102
+  index: -1
+images/0/Blood_0_0015
+  rotate: false
+  xy: 3131, 138
+  size: 45, 11
+  orig: 68, 120
+  offset: 12, 108
+  index: -1
+images/0/Blood_0_0016
+  rotate: false
+  xy: 199, 55
+  size: 39, 9
+  orig: 68, 120
+  offset: 16, 111
+  index: -1
+images/0/Blood_0_0017
+  rotate: false
+  xy: 365, 68
+  size: 33, 7
+  orig: 68, 120
+  offset: 18, 113
+  index: -1
+images/0/Blood_0_0018
+  rotate: false
+  xy: 769, 2
+  size: 27, 5
+  orig: 68, 120
+  offset: 21, 115
+  index: -1
+images/0/Blood_0_0019
+  rotate: false
+  xy: 839, 4
+  size: 21, 4
+  orig: 68, 120
+  offset: 24, 116
+  index: -1
+images/0/Blood_0_0020
+  rotate: false
+  xy: 442, 78
+  size: 15, 4
+  orig: 68, 120
+  offset: 27, 116
+  index: -1
+images/1/Blood_1_0001
+  rotate: false
+  xy: 3338, 185
+  size: 38, 69
+  orig: 43, 79
+  offset: 1, 0
+  index: -1
+images/1/Blood_1_0002
+  rotate: true
+  xy: 3216, 2
+  size: 40, 56
+  orig: 43, 79
+  offset: 0, 18
+  index: -1
+images/1/Blood_1_0003
+  rotate: true
+  xy: 3388, 143
+  size: 41, 51
+  orig: 43, 79
+  offset: 0, 26
+  index: -1
+images/1/Blood_1_0004
+  rotate: false
+  xy: 3372, 7
+  size: 41, 45
+  orig: 43, 79
+  offset: 0, 34
+  index: -1
+images/1/Blood_1_0005
+  rotate: false
+  xy: 3346, 143
+  size: 40, 40
+  orig: 43, 79
+  offset: 3, 39
+  index: -1
+images/1/Blood_1_0006
+  rotate: false
+  xy: 3486, 17
+  size: 35, 35
+  orig: 43, 79
+  offset: 8, 44
+  index: -1
+images/1/Blood_1_0007
+  rotate: false
+  xy: 3516, 56
+  size: 27, 33
+  orig: 43, 79
+  offset: 16, 46
+  index: -1
+images/1/Blood_1_0008
+  rotate: false
+  xy: 3140, 2
+  size: 21, 29
+  orig: 43, 79
+  offset: 22, 49
+  index: -1
+images/1/Blood_1_0009
+  rotate: true
+  xy: 3511, 202
+  size: 17, 22
+  orig: 43, 79
+  offset: 26, 54
+  index: -1
+images/1/Blood_1_0010
+  rotate: true
+  xy: 3223, 139
+  size: 11, 15
+  orig: 43, 79
+  offset: 30, 59
+  index: -1
+images/1/Blood_1_0011
+  rotate: false
+  xy: 240, 55
+  size: 8, 9
+  orig: 43, 79
+  offset: 32, 62
+  index: -1
+images/2/Blood_2_0001
+  rotate: true
+  xy: 3511, 221
+  size: 33, 23
+  orig: 40, 68
+  offset: 4, 0
+  index: -1
+images/2/Blood_2_0002
+  rotate: true
+  xy: 3461, 54
+  size: 33, 53
+  orig: 40, 68
+  offset: 1, 1
+  index: -1
+images/2/Blood_2_0003
+  rotate: false
+  xy: 3452, 196
+  size: 34, 58
+  orig: 40, 68
+  offset: 0, 2
+  index: -1
+images/2/Blood_2_0004
+  rotate: true
+  xy: 3287, 143
+  size: 36, 57
+  orig: 40, 68
+  offset: 1, 7
+  index: -1
+images/2/Blood_2_0005
+  rotate: false
+  xy: 3332, 5
+  size: 38, 46
+  orig: 40, 68
+  offset: 0, 20
+  index: -1
+images/2/Blood_2_0006
+  rotate: true
+  xy: 3438, 12
+  size: 40, 27
+  orig: 40, 68
+  offset: 0, 41
+  index: -1
+images/2/Blood_2_0007
+  rotate: true
+  xy: 3467, 16
+  size: 36, 17
+  orig: 40, 68
+  offset: 4, 50
+  index: -1
+images/2/Blood_2_0008
+  rotate: false
+  xy: 3240, 140
+  size: 27, 10
+  orig: 40, 68
+  offset: 10, 57
+  index: -1
+images/2/Blood_2_0009
+  rotate: false
+  xy: 798, 2
+  size: 16, 6
+  orig: 40, 68
+  offset: 16, 62
+  index: -1
+images/2/Blood_2_0010
+  rotate: true
+  xy: 352, 66
+  size: 9, 4
+  orig: 40, 68
+  offset: 20, 64
+  index: -1
+images/3/Blood_3_0001
+  rotate: true
+  xy: 3202, 152
+  size: 102, 70
+  orig: 135, 218
+  offset: 13, 0
+  index: -1
+images/3/Blood_3_0002
+  rotate: true
+  xy: 3042, 144
+  size: 110, 87
+  orig: 135, 218
+  offset: 10, 1
+  index: -1
+images/3/Blood_3_0003
+  rotate: true
+  xy: 2938, 138
+  size: 116, 102
+  orig: 135, 218
+  offset: 7, 3
+  index: -1
+images/3/Blood_3_0004
+  rotate: false
+  xy: 2819, 133
+  size: 117, 121
+  orig: 135, 218
+  offset: 6, 3
+  index: -1
+images/3/Blood_3_0005
+  rotate: true
+  xy: 2110, 2
+  size: 117, 132
+  orig: 135, 218
+  offset: 6, 5
+  index: -1
+images/3/Blood_3_0006
+  rotate: false
+  xy: 2621, 2
+  size: 125, 124
+  orig: 135, 218
+  offset: 4, 24
+  index: -1
+images/3/Blood_3_0007
+  rotate: false
+  xy: 2236, 122
+  size: 129, 132
+  orig: 135, 218
+  offset: 0, 28
+  index: -1
+images/3/Blood_3_0008
+  rotate: true
+  xy: 2102, 121
+  size: 133, 132
+  orig: 135, 218
+  offset: 0, 39
+  index: -1
+images/3/Blood_3_0009
+  rotate: false
+  xy: 2367, 124
+  size: 130, 130
+  orig: 135, 218
+  offset: 1, 51
+  index: -1
+images/3/Blood_3_0010
+  rotate: true
+  xy: 1977, 119
+  size: 135, 123
+  orig: 135, 218
+  offset: 0, 67
+  index: -1
+images/3/Blood_3_0011
+  rotate: false
+  xy: 1734, 2
+  size: 130, 110
+  orig: 135, 218
+  offset: 2, 85
+  index: -1
+images/3/Blood_3_0012
+  rotate: false
+  xy: 1600, 9
+  size: 132, 94
+  orig: 135, 218
+  offset: 1, 103
+  index: -1
+images/3/Blood_3_0013
+  rotate: true
+  xy: 2871, 10
+  size: 121, 83
+  orig: 135, 218
+  offset: 9, 119
+  index: -1
+images/3/Blood_3_0014
+  rotate: true
+  xy: 2956, 25
+  size: 111, 74
+  orig: 135, 218
+  offset: 16, 131
+  index: -1
+images/3/Blood_3_0015
+  rotate: true
+  xy: 3136, 33
+  size: 103, 66
+  orig: 135, 218
+  offset: 21, 144
+  index: -1
+images/3/Blood_3_0016
+  rotate: false
+  xy: 312, 4
+  size: 92, 60
+  orig: 135, 218
+  offset: 28, 152
+  index: -1
+images/3/Blood_3_0017
+  rotate: true
+  xy: 461, 2
+  size: 80, 53
+  orig: 135, 218
+  offset: 35, 162
+  index: -1
+images/3/Blood_3_0018
+  rotate: true
+  xy: 3291, 185
+  size: 69, 45
+  orig: 135, 218
+  offset: 40, 172
+  index: -1
+images/3/Blood_3_0019
+  rotate: false
+  xy: 3464, 91
+  size: 55, 36
+  orig: 135, 218
+  offset: 48, 182
+  index: -1
+images/3/Blood_3_0020
+  rotate: false
+  xy: 3163, 4
+  size: 51, 27
+  orig: 135, 218
+  offset: 50, 191
+  index: -1
+images/3/Blood_3_0021
+  rotate: false
+  xy: 3416, 54
+  size: 43, 20
+  orig: 135, 218
+  offset: 53, 198
+  index: -1
+images/4/Blood_4_0001
+  rotate: true
+  xy: 3178, 138
+  size: 11, 23
+  orig: 30, 215
+  offset: 2, 0
+  index: -1
+images/4/Blood_4_0002
+  rotate: false
+  xy: 769, 9
+  size: 15, 75
+  orig: 30, 215
+  offset: 0, 12
+  index: -1
+images/4/Blood_4_0003
+  rotate: true
+  xy: 3350, 54
+  size: 17, 64
+  orig: 30, 215
+  offset: 0, 67
+  index: -1
+images/4/Blood_4_0004
+  rotate: true
+  xy: 3350, 54
+  size: 17, 64
+  orig: 30, 215
+  offset: 0, 67
+  index: -1
+images/4/Blood_4_0005
+  rotate: false
+  xy: 3500, 144
+  size: 16, 52
+  orig: 30, 215
+  offset: 1, 96
+  index: -1
+images/4/Blood_4_0006
+  rotate: false
+  xy: 3274, 181
+  size: 15, 73
+  orig: 30, 215
+  offset: 2, 97
+  index: -1
+images/4/Blood_4_0007
+  rotate: false
+  xy: 982, 2
+  size: 17, 85
+  orig: 30, 215
+  offset: 3, 103
+  index: -1
+images/4/Blood_4_0008
+  rotate: false
+  xy: 3204, 44
+  size: 19, 92
+  orig: 30, 215
+  offset: 4, 106
+  index: -1
+images/4/Blood_4_0009
+  rotate: true
+  xy: 2956, 2
+  size: 21, 93
+  orig: 30, 215
+  offset: 4, 109
+  index: -1
+images/4/Blood_4_0010
+  rotate: true
+  xy: 2, 2
+  size: 20, 92
+  orig: 30, 215
+  offset: 5, 113
+  index: -1
+images/4/Blood_4_0011
+  rotate: false
+  xy: 3225, 46
+  size: 21, 91
+  orig: 30, 215
+  offset: 5, 117
+  index: -1
+images/4/Blood_4_0012
+  rotate: false
+  xy: 3248, 49
+  size: 21, 89
+  orig: 30, 215
+  offset: 6, 122
+  index: -1
+images/4/Blood_4_0013
+  rotate: true
+  xy: 3051, 2
+  size: 22, 87
+  orig: 30, 215
+  offset: 6, 126
+  index: -1
+images/4/Blood_4_0014
+  rotate: false
+  xy: 957, 2
+  size: 23, 85
+  orig: 30, 215
+  offset: 6, 129
+  index: -1
+images/4/Blood_4_0015
+  rotate: true
+  xy: 317, 66
+  size: 9, 19
+  orig: 30, 215
+  offset: 20, 195
+  index: -1
+images/4/Blood_4_0016
+  rotate: true
+  xy: 3269, 143
+  size: 7, 16
+  orig: 30, 215
+  offset: 22, 199
+  index: -1
+images/4/Blood_4_0017
+  rotate: true
+  xy: 816, 2
+  size: 6, 12
+  orig: 30, 215
+  offset: 24, 203
+  index: -1
+images/4/Blood_4_0018
+  rotate: false
+  xy: 358, 67
+  size: 5, 8
+  orig: 30, 215
+  offset: 25, 207
+  index: -1
+images/5/Blood_5_0001
+  rotate: false
+  xy: 3415, 8
+  size: 21, 44
+  orig: 21, 68
+  offset: 0, 0
+  index: -1
+images/5/Blood_5_0002
+  rotate: false
+  xy: 3423, 78
+  size: 16, 63
+  orig: 21, 68
+  offset: 2, 0
+  index: -1
+images/5/Blood_5_0003
+  rotate: false
+  xy: 3441, 89
+  size: 21, 38
+  orig: 21, 68
+  offset: 0, 27
+  index: -1
+images/5/Blood_5_0004
+  rotate: false
+  xy: 3441, 89
+  size: 21, 38
+  orig: 21, 68
+  offset: 0, 27
+  index: -1
+images/5/Blood_5_0005
+  rotate: true
+  xy: 3321, 53
+  size: 18, 27
+  orig: 21, 68
+  offset: 1, 40
+  index: -1
+images/5/Blood_5_0006
+  rotate: false
+  xy: 3523, 31
+  size: 14, 23
+  orig: 21, 68
+  offset: 3, 45
+  index: -1
+images/5/Blood_5_0007
+  rotate: false
+  xy: 3523, 31
+  size: 14, 23
+  orig: 21, 68
+  offset: 3, 45
+  index: -1
+images/5/Blood_5_0008
+  rotate: true
+  xy: 3203, 138
+  size: 12, 18
+  orig: 21, 68
+  offset: 4, 50
+  index: -1
+images/5/Blood_5_0009
+  rotate: true
+  xy: 338, 66
+  size: 9, 12
+  orig: 21, 68
+  offset: 5, 55
+  index: -1
+images/5/Blood_5_0010
+  rotate: true
+  xy: 338, 66
+  size: 9, 12
+  orig: 21, 68
+  offset: 5, 55
+  index: -1
+images/5/Blood_5_0011
+  rotate: true
+  xy: 830, 2
+  size: 6, 7
+  orig: 21, 68
+  offset: 7, 59
+  index: -1
+images/6/Blood_6_0001
+  rotate: false
+  xy: 516, 2
+  size: 67, 81
+  orig: 122, 225
+  offset: 30, 0
+  index: -1
+images/6/Blood_6_0002
+  rotate: false
+  xy: 3131, 151
+  size: 69, 103
+  orig: 122, 225
+  offset: 29, 0
+  index: -1
+images/6/Blood_6_0003
+  rotate: false
+  xy: 2499, 126
+  size: 72, 128
+  orig: 122, 225
+  offset: 27, 0
+  index: -1
+images/6/Blood_6_0004
+  rotate: true
+  xy: 786, 10
+  size: 74, 134
+  orig: 122, 225
+  offset: 25, 6
+  index: -1
+images/6/Blood_6_0005
+  rotate: true
+  xy: 585, 5
+  size: 78, 154
+  orig: 122, 225
+  offset: 23, 8
+  index: -1
+images/6/Blood_6_0006
+  rotate: true
+  xy: 1001, 3
+  size: 84, 149
+  orig: 122, 225
+  offset: 20, 22
+  index: -1
+images/6/Blood_6_0007
+  rotate: true
+  xy: 1152, 2
+  size: 91, 146
+  orig: 122, 225
+  offset: 16, 34
+  index: -1
+images/6/Blood_6_0008
+  rotate: true
+  xy: 1300, 2
+  size: 97, 143
+  orig: 122, 225
+  offset: 13, 45
+  index: -1
+images/6/Blood_6_0009
+  rotate: false
+  xy: 1623, 108
+  size: 103, 146
+  orig: 122, 225
+  offset: 9, 52
+  index: -1
+images/6/Blood_6_0010
+  rotate: false
+  xy: 1818, 116
+  size: 107, 138
+  orig: 122, 225
+  offset: 7, 63
+  index: -1
+images/6/Blood_6_0011
+  rotate: true
+  xy: 1866, 2
+  size: 112, 134
+  orig: 122, 225
+  offset: 5, 70
+  index: -1
+images/6/Blood_6_0012
+  rotate: true
+  xy: 2490, 5
+  size: 117, 129
+  orig: 122, 225
+  offset: 3, 81
+  index: -1
+images/6/Blood_6_0013
+  rotate: true
+  xy: 2244, 2
+  size: 118, 125
+  orig: 122, 225
+  offset: 2, 87
+  index: -1
+images/6/Blood_6_0014
+  rotate: false
+  xy: 2573, 128
+  size: 121, 126
+  orig: 122, 225
+  offset: 0, 89
+  index: -1
+images/6/Blood_6_0015
+  rotate: false
+  xy: 2696, 130
+  size: 121, 124
+  orig: 122, 225
+  offset: 0, 92
+  index: -1
+images/6/Blood_6_0016
+  rotate: false
+  xy: 2748, 4
+  size: 121, 124
+  orig: 122, 225
+  offset: 0, 94
+  index: -1
+images/6/Blood_6_0017
+  rotate: true
+  xy: 2371, 2
+  size: 120, 117
+  orig: 122, 225
+  offset: 2, 102
+  index: -1
+images/6/Blood_6_0018
+  rotate: true
+  xy: 2002, 3
+  size: 114, 106
+  orig: 122, 225
+  offset: 7, 114
+  index: -1
+images/6/Blood_6_0019
+  rotate: true
+  xy: 3032, 26
+  size: 110, 102
+  orig: 122, 225
+  offset: 10, 120
+  index: -1
+images/6/Blood_6_0020
+  rotate: false
+  xy: 1445, 7
+  size: 106, 96
+  orig: 122, 225
+  offset: 12, 126
+  index: -1
+images/6/Blood_6_0021
+  rotate: true
+  xy: 922, 2
+  size: 85, 33
+  orig: 122, 225
+  offset: 31, 190
+  index: -1
+images/6/Blood_6_0022
+  rotate: true
+  xy: 741, 7
+  size: 77, 26
+  orig: 122, 225
+  offset: 36, 198
+  index: -1
+images/6/Blood_6_0023
+  rotate: false
+  xy: 96, 2
+  size: 69, 20
+  orig: 122, 225
+  offset: 41, 205
+  index: -1
+images/7/Blood_7_0001
+  rotate: false
+  xy: 1728, 114
+  size: 88, 140
+  orig: 170, 302
+  offset: 44, 0
+  index: -1
+images/7/Blood_7_0002
+  rotate: false
+  xy: 103, 55
+  size: 94, 199
+  orig: 170, 302
+  offset: 41, 4
+  index: -1
+images/7/Blood_7_0003
+  rotate: false
+  xy: 2, 24
+  size: 99, 230
+  orig: 170, 302
+  offset: 34, 25
+  index: -1
+images/7/Blood_7_0004
+  rotate: false
+  xy: 199, 66
+  size: 116, 188
+  orig: 170, 302
+  offset: 29, 83
+  index: -1
+images/7/Blood_7_0005
+  rotate: false
+  xy: 317, 77
+  size: 123, 177
+  orig: 170, 302
+  offset: 24, 105
+  index: -1
+images/7/Blood_7_0006
+  rotate: false
+  xy: 516, 85
+  size: 139, 169
+  orig: 170, 302
+  offset: 17, 121
+  index: -1
+images/7/Blood_7_0007
+  rotate: false
+  xy: 903, 89
+  size: 145, 165
+  orig: 170, 302
+  offset: 12, 132
+  index: -1
+images/7/Blood_7_0008
+  rotate: true
+  xy: 1337, 105
+  size: 149, 146
+  orig: 170, 302
+  offset: 10, 151
+  index: -1
+images/7/Blood_7_0009
+  rotate: true
+  xy: 1485, 105
+  size: 149, 136
+  orig: 170, 302
+  offset: 9, 162
+  index: -1
+images/7/Blood_7_0010
+  rotate: true
+  xy: 1159, 98
+  size: 156, 116
+  orig: 170, 302
+  offset: 7, 183
+  index: -1
+images/7/Blood_7_0011
+  rotate: true
+  xy: 1050, 95
+  size: 159, 107
+  orig: 170, 302
+  offset: 6, 193
+  index: -1
+images/7/Blood_7_0012
+  rotate: true
+  xy: 807, 88
+  size: 166, 94
+  orig: 170, 302
+  offset: 1, 207
+  index: -1
+images/7/Blood_7_0013
+  rotate: true
+  xy: 722, 86
+  size: 168, 83
+  orig: 170, 302
+  offset: 0, 219
+  index: -1
+images/7/Blood_7_0014
+  rotate: true
+  xy: 442, 84
+  size: 170, 72
+  orig: 170, 302
+  offset: 0, 230
+  index: -1
+images/7/Blood_7_0015
+  rotate: true
+  xy: 657, 85
+  size: 169, 63
+  orig: 170, 302
+  offset: 1, 236
+  index: -1
+images/7/Blood_7_0016
+  rotate: true
+  xy: 1277, 101
+  size: 153, 58
+  orig: 170, 302
+  offset: 2, 241
+  index: -1
+images/7/Blood_7_0017
+  rotate: true
+  xy: 1927, 118
+  size: 136, 48
+  orig: 170, 302
+  offset: 5, 252
+  index: -1
+images/7/Blood_7_0018
+  rotate: false
+  xy: 3486, 2
+  size: 52, 13
+  orig: 170, 302
+  offset: 72, 287
+  index: -1

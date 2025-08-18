@@ -1,0 +1,90 @@
+
+RitualEffect.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Crown_Eye_1
+  rotate: true
+  xy: 2747, 51
+  size: 340, 146
+  orig: 352, 156
+  offset: 6, 3
+  index: -1
+images/Crown_Eye_2
+  rotate: false
+  xy: 2254, 114
+  size: 343, 189
+  orig: 355, 196
+  offset: 6, 3
+  index: -1
+images/Crown_Eye_3
+  rotate: false
+  xy: 1910, 88
+  size: 342, 215
+  orig: 352, 222
+  offset: 5, 3
+  index: -1
+images/RitualArrows_1
+  rotate: false
+  xy: 2599, 48
+  size: 146, 343
+  orig: 164, 366
+  offset: 9, 13
+  index: -1
+images/RitualArrows_2
+  rotate: false
+  xy: 2387, 359
+  size: 175, 660
+  orig: 195, 683
+  offset: 10, 12
+  index: -1
+images/RitualBack_1
+  rotate: false
+  xy: 1021, 110
+  size: 887, 909
+  orig: 906, 933
+  offset: 11, 11
+  index: -1
+images/RitualCrown
+  rotate: false
+  xy: 2564, 393
+  size: 450, 626
+  orig: 450, 626
+  offset: 0, 0
+  index: -1
+images/RitualParticles_1
+  rotate: false
+  xy: 2895, 76
+  size: 406, 315
+  orig: 406, 315
+  offset: 0, 0
+  index: -1
+images/RitualRing_1
+  rotate: false
+  xy: 3016, 545
+  size: 474, 474
+  orig: 492, 492
+  offset: 9, 9
+  index: -1
+images/RitualRing_2
+  rotate: false
+  xy: 2, 2
+  size: 1017, 1017
+  orig: 1035, 1035
+  offset: 9, 9
+  index: -1
+images/RitualSword
+  rotate: false
+  xy: 1910, 305
+  size: 347, 714
+  orig: 347, 714
+  offset: 0, 0
+  index: -1
+images/Shine
+  rotate: true
+  xy: 2259, 337
+  size: 682, 126
+  orig: 682, 136
+  offset: 0, 8
+  index: -1

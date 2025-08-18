@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8302033850027404168
+  },
+  "m_Name": "Enemies_Bat_SkeletonData",
+  "atlasAssets": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6877880911517413252
+    }
+  ],
+  "scale": 0.0025,
+  "skeletonJSON": {
+    "m_FileID": 0,
+    "m_PathID": -9206430617618398826
+  },
+  "skeletonDataModifiers": [],
+  "fromAnimation": [
+    "attackcharge"
+  ],
+  "toAnimation": [
+    "attack"
+  ],
+  "duration": [
+    0.0
+  ],
+  "defaultMix": 0.1,
+  "controller": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

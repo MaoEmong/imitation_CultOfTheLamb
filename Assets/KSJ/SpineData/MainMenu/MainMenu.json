@@ -1,0 +1,54 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1784
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2255687024976021473
+  },
+  "m_Name": "",
+  "_animator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_canvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": 9931
+  },
+  "_defaultSelectable": {
+    "m_FileID": 0,
+    "m_PathID": 10065
+  },
+  "_defaultSelectableFallbacks": [],
+  "_playButton": {
+    "m_FileID": 0,
+    "m_PathID": 10065
+  },
+  "_settingsButton": {
+    "m_FileID": 0,
+    "m_PathID": 10087
+  },
+  "_creditsButton": {
+    "m_FileID": 0,
+    "m_PathID": 10025
+  },
+  "_roadmapButton": {
+    "m_FileID": 0,
+    "m_PathID": 11600
+  },
+  "_quitButton": {
+    "m_FileID": 0,
+    "m_PathID": 10021
+  },
+  "_buttonHighlight": {
+    "m_FileID": 0,
+    "m_PathID": 10043
+  },
+  "_UserPicker": {
+    "m_FileID": 0,
+    "m_PathID": 2926
+  },
+  "WillRequirePostGameReveal": 0
+}

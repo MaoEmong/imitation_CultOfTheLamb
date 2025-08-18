@@ -1,0 +1,377 @@
+
+BlockImpact.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Block02/Bounce/Block02_Bounce_0001
+  rotate: true
+  xy: 221, 732
+  size: 171, 41
+  orig: 287, 136
+  offset: 58, 4
+  index: -1
+images/Block02/Bounce/Block02_Bounce_0002
+  rotate: false
+  xy: 264, 936
+  size: 247, 86
+  orig: 287, 136
+  offset: 21, 0
+  index: -1
+images/Block02/Bounce/Block02_Bounce_0003
+  rotate: false
+  xy: 2, 905
+  size: 260, 117
+  orig: 287, 136
+  offset: 13, 14
+  index: -1
+images/Block02/Bounce/Block02_Bounce_0004
+  rotate: false
+  xy: 513, 927
+  size: 241, 95
+  orig: 287, 136
+  offset: 23, 38
+  index: -1
+images/Block02/Bounce/Block02_Bounce_0005
+  rotate: false
+  xy: 264, 849
+  size: 228, 85
+  orig: 287, 136
+  offset: 29, 49
+  index: -1
+images/Block02/Bounce/Block02_Bounce_0006
+  rotate: false
+  xy: 2, 770
+  size: 216, 78
+  orig: 287, 136
+  offset: 35, 57
+  index: -1
+images/Block02/Bounce/Block02_Bounce_0007
+  rotate: false
+  xy: 756, 948
+  size: 209, 74
+  orig: 287, 136
+  offset: 38, 62
+  index: -1
+images/Block02/Bounce/Block02_Bounce_0008
+  rotate: false
+  xy: 755, 713
+  size: 205, 70
+  orig: 287, 136
+  offset: 40, 66
+  index: -1
+images/Block02/Bounce/Block02_Bounce_0009
+  rotate: false
+  xy: 965, 818
+  size: 57, 9
+  orig: 287, 136
+  offset: 108, 69
+  index: -1
+images/Block02/Spark00/Block02_Spark00_0001
+  rotate: true
+  xy: 216, 683
+  size: 19, 45
+  orig: 20, 196
+  offset: 1, 0
+  index: -1
+images/Block02/Spark00/Block02_Spark00_0002
+  rotate: false
+  xy: 1008, 658
+  size: 13, 71
+  orig: 20, 196
+  offset: 2, 105
+  index: -1
+images/Block02/Spark00/Block02_Spark00_0003
+  rotate: true
+  xy: 965, 802
+  size: 14, 48
+  orig: 20, 196
+  offset: 0, 141
+  index: -1
+images/Block02/Spark00/Block02_Spark00_0004
+  rotate: true
+  xy: 475, 752
+  size: 13, 32
+  orig: 20, 196
+  offset: 0, 163
+  index: -1
+images/Block02/Spark00/Block02_Spark00_0005
+  rotate: true
+  xy: 475, 722
+  size: 12, 21
+  orig: 20, 196
+  offset: 0, 175
+  index: -1
+images/Block02/Spark00/Block02_Spark00_0006
+  rotate: false
+  xy: 492, 769
+  size: 9, 11
+  orig: 20, 196
+  offset: 1, 185
+  index: -1
+images/Block02/Spark01/Block02_Spark01_0001
+  rotate: true
+  xy: 475, 736
+  size: 14, 27
+  orig: 18, 131
+  offset: 4, 0
+  index: -1
+images/Block02/Spark01/Block02_Spark01_0002
+  rotate: false
+  xy: 475, 802
+  size: 16, 45
+  orig: 18, 131
+  offset: 0, 55
+  index: -1
+images/Block02/Spark01/Block02_Spark01_0003
+  rotate: true
+  xy: 720, 836
+  size: 15, 34
+  orig: 18, 131
+  offset: 0, 82
+  index: -1
+images/Block02/Spark01/Block02_Spark01_0004
+  rotate: true
+  xy: 475, 708
+  size: 12, 21
+  orig: 18, 131
+  offset: 2, 106
+  index: -1
+images/Block02/Spark01/Block02_Spark01_0005
+  rotate: false
+  xy: 498, 707
+  size: 9, 11
+  orig: 18, 131
+  offset: 3, 120
+  index: -1
+images/Block02/Spark02/Block02_Spark02_0001
+  rotate: true
+  xy: 965, 778
+  size: 22, 47
+  orig: 22, 227
+  offset: 0, 0
+  index: -1
+images/Block02/Spark02/Block02_Spark02_0002
+  rotate: false
+  xy: 475, 536
+  size: 20, 156
+  orig: 22, 227
+  offset: 0, 30
+  index: -1
+images/Block02/Spark02/Block02_Spark02_0003
+  rotate: false
+  xy: 494, 844
+  size: 17, 90
+  orig: 22, 227
+  offset: 1, 129
+  index: -1
+images/Block02/Spark02/Block02_Spark02_0004
+  rotate: false
+  xy: 475, 767
+  size: 15, 33
+  orig: 22, 227
+  offset: 2, 192
+  index: -1
+images/Block02/Spark02/Block02_Spark02_0005
+  rotate: true
+  xy: 475, 694
+  size: 12, 21
+  orig: 22, 227
+  offset: 3, 206
+  index: -1
+images/Block02/Spark02/Block02_Spark02_0006
+  rotate: false
+  xy: 497, 678
+  size: 10, 14
+  orig: 22, 227
+  offset: 4, 213
+  index: -1
+images/Block02/Spark02/Block02_Spark02_0007
+  rotate: false
+  xy: 1015, 808
+  size: 6, 8
+  orig: 22, 227
+  offset: 6, 218
+  index: -1
+images/Block02/Spark03/Block02_Spark03_0001
+  rotate: false
+  xy: 714, 561
+  size: 38, 135
+  orig: 38, 240
+  offset: 0, 0
+  index: -1
+images/Block02/Spark03/Block02_Spark03_0002
+  rotate: false
+  xy: 720, 698
+  size: 33, 136
+  orig: 38, 240
+  offset: 2, 82
+  index: -1
+images/Block02/Spark03/Block02_Spark03_0003
+  rotate: true
+  xy: 962, 753
+  size: 23, 59
+  orig: 38, 240
+  offset: 8, 169
+  index: -1
+images/Block02/Spark03/Block02_Spark03_0004
+  rotate: false
+  xy: 493, 810
+  size: 18, 32
+  orig: 38, 240
+  offset: 10, 205
+  index: -1
+images/Block02/Spark03/Block02_Spark03_0005
+  rotate: false
+  xy: 1008, 731
+  size: 14, 20
+  orig: 38, 240
+  offset: 12, 219
+  index: -1
+images/Block02/Spark03/Block02_Spark03_0006
+  rotate: false
+  xy: 498, 694
+  size: 9, 11
+  orig: 38, 240
+  offset: 14, 229
+  index: -1
+images/Block02/Spark04/Block02_Spark04_0001
+  rotate: false
+  xy: 967, 829
+  size: 54, 193
+  orig: 54, 355
+  offset: 0, 0
+  index: -1
+images/Block02/Spark04/Block02_Spark04_0002
+  rotate: true
+  xy: 2, 850
+  size: 53, 217
+  orig: 54, 355
+  offset: 0, 91
+  index: -1
+images/Block02/Spark04/Block02_Spark04_0003
+  rotate: false
+  xy: 962, 585
+  size: 44, 166
+  orig: 54, 355
+  offset: 2, 183
+  index: -1
+images/Block02/Spark04/Block02_Spark04_0004
+  rotate: false
+  xy: 720, 853
+  size: 34, 72
+  orig: 54, 355
+  offset: 8, 282
+  index: -1
+images/Block02/Spark04/Block02_Spark04_0005
+  rotate: true
+  xy: 216, 704
+  size: 26, 46
+  orig: 54, 355
+  offset: 13, 309
+  index: -1
+images/Block02/Spark04/Block02_Spark04_0006
+  rotate: false
+  xy: 493, 782
+  size: 16, 26
+  orig: 54, 355
+  offset: 18, 324
+  index: -1
+images/Block02/Spark04/Block02_Spark04_0007
+  rotate: false
+  xy: 498, 720
+  size: 9, 14
+  orig: 54, 355
+  offset: 22, 329
+  index: -1
+images/BlockSheild_Broken_1
+  rotate: false
+  xy: 216, 502
+  size: 150, 112
+  orig: 150, 112
+  offset: 0, 0
+  index: -1
+images/BlockSheild_Broken_2
+  rotate: false
+  xy: 389, 542
+  size: 83, 139
+  orig: 83, 139
+  offset: 0, 0
+  index: -1
+images/BlockSheild_Broken_3
+  rotate: true
+  xy: 368, 408
+  size: 132, 92
+  orig: 132, 92
+  offset: 0, 0
+  index: -1
+images/BlockSheild_Broken_4
+  rotate: true
+  xy: 2, 520
+  size: 82, 141
+  orig: 82, 141
+  offset: 0, 0
+  index: -1
+images/Block_Sheild/Block_Sheild
+  rotate: true
+  xy: 497, 424
+  size: 165, 199
+  orig: 253, 253
+  offset: 41, 13
+  index: -1
+images/Block_Sheild/Block_Sheild_0001
+  rotate: true
+  xy: 756, 785
+  size: 161, 207
+  orig: 253, 253
+  offset: 43, 21
+  index: -1
+images/Block_Sheild/Block_Sheild_0002
+  rotate: true
+  xy: 2, 604
+  size: 164, 212
+  orig: 253, 253
+  offset: 42, 17
+  index: -1
+images/Block_Sheild/Block_Sheild_0004
+  rotate: true
+  xy: 513, 760
+  size: 165, 205
+  orig: 253, 253
+  offset: 42, 16
+  index: -1
+images/Block_Sheild/Block_Sheild_0006
+  rotate: true
+  xy: 264, 683
+  size: 164, 209
+  orig: 253, 253
+  offset: 42, 20
+  index: -1
+images/Block_Sheild/Block_Sheild_0008
+  rotate: true
+  xy: 755, 550
+  size: 161, 203
+  orig: 253, 253
+  offset: 42, 24
+  index: -1
+images/Block_Sheild/Block_Sheild_0010
+  rotate: true
+  xy: 509, 591
+  size: 167, 203
+  orig: 253, 253
+  offset: 42, 28
+  index: -1
+images/Block_Sheild/Block_Sheild_0012
+  rotate: false
+  xy: 216, 616
+  size: 171, 65
+  orig: 253, 253
+  offset: 42, 166
+  index: -1
+images/Block_Sheild/Block_Sheild_0014
+  rotate: false
+  xy: 216, 767
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

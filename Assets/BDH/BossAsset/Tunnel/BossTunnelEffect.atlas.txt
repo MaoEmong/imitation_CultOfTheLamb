@@ -1,0 +1,118 @@
+
+BossTunnelEffect.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/DigMound_1
+  rotate: false
+  xy: 798, 953
+  size: 175, 69
+  orig: 175, 69
+  offset: 0, 0
+  index: -1
+images/DigMound_1_Big
+  rotate: true
+  xy: 488, 387
+  size: 635, 212
+  orig: 635, 212
+  offset: 0, 0
+  index: -1
+images/DigMound_2
+  rotate: false
+  xy: 273, 297
+  size: 180, 72
+  orig: 180, 72
+  offset: 0, 0
+  index: -1
+images/DigMound_2_Big
+  rotate: true
+  xy: 273, 371
+  size: 651, 213
+  orig: 651, 213
+  offset: 0, 0
+  index: -1
+images/DigMound_3
+  rotate: false
+  xy: 455, 299
+  size: 173, 70
+  orig: 173, 70
+  offset: 0, 0
+  index: -1
+images/DigMound_3_Big
+  rotate: false
+  xy: 56, 66
+  size: 631, 228
+  orig: 631, 228
+  offset: 0, 0
+  index: -1
+images/DigParticle_1
+  rotate: true
+  xy: 42, 3
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+images/DigParticle_2
+  rotate: false
+  xy: 83, 39
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+images/DigParticle_3
+  rotate: false
+  xy: 56, 45
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+images/DigParticle_4
+  rotate: false
+  xy: 2, 2
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+images/Mound_Btm
+  rotate: true
+  xy: 2, 42
+  size: 252, 52
+  orig: 253, 52
+  offset: 0, 0
+  index: -1
+images/TunnelSpiker_Spike1
+  rotate: false
+  xy: 816, 107
+  size: 104, 426
+  orig: 104, 426
+  offset: 0, 0
+  index: -1
+images/TunnelSpiker_Spike2
+  rotate: false
+  xy: 689, 17
+  size: 107, 368
+  orig: 107, 368
+  offset: 0, 0
+  index: -1
+images/TunnelSpiker_Spike3
+  rotate: false
+  xy: 816, 535
+  size: 145, 416
+  orig: 145, 416
+  offset: 0, 0
+  index: -1
+images/TunnelSpiker_Spike4
+  rotate: false
+  xy: 702, 401
+  size: 112, 550
+  orig: 112, 550
+  offset: 0, 0
+  index: -1
+images/TunnelSpiker_Spike5
+  rotate: false
+  xy: 2, 296
+  size: 269, 726
+  orig: 269, 726
+  offset: 0, 0
+  index: -1

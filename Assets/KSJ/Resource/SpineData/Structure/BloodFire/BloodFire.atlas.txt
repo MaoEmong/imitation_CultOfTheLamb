@@ -1,0 +1,132 @@
+
+BloodFire.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/BloodFire/BloodFire_0/BloodFire_0_0001
+  rotate: true
+  xy: 1217, 2
+  size: 252, 151
+  orig: 290, 203
+  offset: 0, 0
+  index: -1
+images/BloodFire/BloodFire_0/BloodFire_0_0002
+  rotate: true
+  xy: 1223, 259
+  size: 251, 141
+  orig: 290, 203
+  offset: 5, 1
+  index: -1
+images/BloodFire/BloodFire_0/BloodFire_0_0003
+  rotate: true
+  xy: 610, 236
+  size: 274, 174
+  orig: 290, 203
+  offset: 7, 4
+  index: -1
+images/BloodFire/BloodFire_0/BloodFire_0_0004
+  rotate: true
+  xy: 1366, 272
+  size: 238, 194
+  orig: 290, 203
+  offset: 12, 0
+  index: -1
+images/BloodFire/BloodFire_0/BloodFire_0_0005
+  rotate: true
+  xy: 1045, 256
+  size: 254, 176
+  orig: 290, 203
+  offset: 20, 2
+  index: -1
+images/BloodFire/BloodFire_0/BloodFire_0_0006
+  rotate: true
+  xy: 410, 236
+  size: 274, 198
+  orig: 290, 203
+  offset: 16, 5
+  index: -1
+images/BloodFire/BloodFire_1/BloodFire_1_0001
+  rotate: true
+  xy: 786, 241
+  size: 269, 257
+  orig: 327, 257
+  offset: 0, 0
+  index: -1
+images/BloodFire/BloodFire_1/BloodFire_1_0002
+  rotate: true
+  xy: 208, 212
+  size: 298, 200
+  orig: 327, 257
+  offset: 6, 2
+  index: -1
+images/BloodFire/BloodFire_1/BloodFire_1_0003
+  rotate: true
+  xy: 2, 194
+  size: 316, 204
+  orig: 327, 257
+  offset: 11, 4
+  index: -1
+images/BloodFire/BloodFire_1/BloodFire_1_0004
+  rotate: false
+  xy: 2, 3
+  size: 258, 189
+  orig: 327, 257
+  offset: 18, 10
+  index: -1
+images/BloodFire/BloodFire_1/BloodFire_1_0005
+  rotate: false
+  xy: 778, 25
+  size: 263, 209
+  orig: 327, 257
+  offset: 13, 9
+  index: -1
+images/BloodFire/BloodFire_1/BloodFire_1_0006
+  rotate: false
+  xy: 429, 3
+  size: 255, 231
+  orig: 327, 257
+  offset: 14, 6
+  index: -1
+images/BloodFire/BloodFire_2/BloodFire_2_0001
+  rotate: true
+  xy: 686, 19
+  size: 215, 90
+  orig: 215, 175
+  offset: 0, 5
+  index: -1
+images/BloodFire/BloodFire_2/BloodFire_2_0002
+  rotate: true
+  xy: 1370, 79
+  size: 191, 142
+  orig: 215, 175
+  offset: 12, 0
+  index: -1
+images/BloodFire/BloodFire_2/BloodFire_2_0003
+  rotate: true
+  xy: 262, 8
+  size: 202, 165
+  orig: 215, 175
+  offset: 11, 4
+  index: -1
+images/BloodFire/BloodFire_2/BloodFire_2_0004
+  rotate: true
+  xy: 1043, 42
+  size: 197, 172
+  orig: 215, 175
+  offset: 17, 3
+  index: -1
+images/BloodFire/BloodFire_2/BloodFire_2_0005
+  rotate: true
+  xy: 1514, 81
+  size: 189, 144
+  orig: 215, 175
+  offset: 24, 5
+  index: -1
+images/BloodFire/BloodFire_2/BloodFire_2_0006
+  rotate: true
+  xy: 1562, 323
+  size: 187, 154
+  orig: 215, 175
+  offset: 23, 2
+  index: -1
